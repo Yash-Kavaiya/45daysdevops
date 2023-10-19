@@ -1,19 +1,17 @@
-Certainly! Let me explain these concepts for you:
-
-1. **Server**:
+1. ### Server:
    - A server is a computer program or a device that provides functionality or services to other programs or devices, known as clients, over a network. 
    - In a broader sense, a server can also refer to the physical machine that hosts these services. This machine is typically optimized for tasks like storing, processing, and transmitting data.
 
-2. **VM (Virtual Machine)**:
+2. ### VM (Virtual Machine):
    - A virtual machine is an emulation of a computer system. It allows one physical machine (host) to run multiple virtual computers (guests) on it. Each virtual machine operates as if it were an independent physical computer, with its own operating system and applications.
    - Virtual machines are created and managed by virtualization software that acts as a layer between the hardware and the operating system.
 
-3. **Hypervisor**:
+3. ### Hypervisor:
    - A hypervisor is a piece of software or firmware that creates and manages virtual machines. It allows multiple operating systems to share a single hardware host. There are two types of hypervisors:
       - **Type 1 Hypervisor**: This runs directly on the physical hardware. Examples include VMware vSphere/ESXi, Microsoft Hyper-V, and Xen.
       - **Type 2 Hypervisor**: This runs on top of an existing operating system. Examples include VMware Workstation, Oracle VirtualBox, and Parallels Desktop.
 
-4. **Difference between Physical and Virtual Machine**:
+4. ### Difference between Physical and Virtual Machine:
    - **Physical Machine**:
      - A physical machine is a tangible computing device with its own dedicated hardware resources (CPU, memory, storage, etc.).
      - It runs a single operating system directly on its hardware.
@@ -25,7 +23,7 @@ Certainly! Let me explain these concepts for you:
      - Each virtual machine can run a different operating system independent of the others.
      - VMs are more flexible, portable, and efficient in resource utilization.
 
-5. **Advantages of Virtual Machines**:
+5. ### Advantages of Virtual Machines:
 
    - **Resource Efficiency**: Virtualization allows for better utilization of physical resources. Multiple virtual machines can run on a single server, maximizing hardware utilization.
 
