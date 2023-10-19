@@ -37,4 +37,4 @@ Here are some examples of how DevOps can be applied to different phases of the S
 * **Deployment:** DevOps teams can use tools and techniques such as infrastructure as code and cloud computing to automate the deployment process. This helps to ensure that the software can be deployed quickly and reliably to any environment.
 * **Maintenance:** DevOps teams can use tools and techniques such as monitoring and logging to identify and fix bugs in the software. They can also use these tools to gather feedback from users and identify opportunities for new features.
 
-DevOps is a powerful approach to software development that can help teams to deliver high-quality software to market more quickly and reliably. By applying DevOps principles and practices to the SDLC, teams can improve their overall software development process.
+DevOps is a powerful approach to software development that can help teams to deliver high-quality software to market more quickly and reliably. By applying DevOps principles and practices to the SDLC, teams can improve their overall software development process
