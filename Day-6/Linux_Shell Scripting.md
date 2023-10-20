@@ -60,3 +60,5 @@ Bash is a popular shell (command interpreter) for Linux. It's the interface thro
 - **DF -h:** Shows the amount of disk space available on the file system. `df -h` gives a human-readable output.
 
 **Example:** If you want to see how much memory is available, you'd type `free -h` and press Enter.
+
+Shell Scripting Crash Coursh :- https://www.youtube.com/watch?v=zsajhz2_50g
