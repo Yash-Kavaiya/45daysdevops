@@ -47,3 +47,5 @@ Here are some specific examples of organizations that can benefit from DevOps:
 * **Gaming companies:** DevOps can help gaming companies to deliver new games and updates more quickly and with less downtime.
 
 If you are interested in learning more about DevOps, there are a number of resources available online and in libraries. You can also find DevOps training courses and certifications
+
+Day :-1 Reading :- https://medium.com/@saurabhdahibhate50/devops-task-day-01-5568d7459075
