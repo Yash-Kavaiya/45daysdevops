@@ -61,4 +61,5 @@ Bash is a popular shell (command interpreter) for Linux. It's the interface thro
 
 **Example:** If you want to see how much memory is available, you'd type `free -h` and press Enter.
 
-Shell Scripting Crash Coursh :- https://www.youtube.com/watch?v=zsajhz2_50g
+Shell Scripting Part -1 :- https://www.youtube.com/watch?v=zsajhz2_50g
+Shell Scripting Part -2 :- https://www.youtube.com/watch?v=CyQtk9f646Q
