@@ -63,3 +63,5 @@ Bash is a popular shell (command interpreter) for Linux. It's the interface thro
 
 Shell Scripting Part -1 :- https://www.youtube.com/watch?v=zsajhz2_50g
 Shell Scripting Part -2 :- https://www.youtube.com/watch?v=CyQtk9f646Q
+
+Reading :- https://medium.com/@saurabhdahibhate50/devops-day-02-task-aa685c8f2596
