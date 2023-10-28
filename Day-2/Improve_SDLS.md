@@ -1,3 +1,5 @@
+## Software Development Life Cycles
+
 SDLC stands for Software Development Life Cycle. It is a process that software development teams use to design, develop, test, and deploy high-quality software. The SDLC is typically divided into six phases:
 
 1. **Requirements gathering and analysis:** This phase involves understanding the needs of the users and stakeholders of the software, and defining the requirements that the software must meet.

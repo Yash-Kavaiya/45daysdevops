@@ -44,5 +44,5 @@ Once you have a basic understanding of shell scripting, you can start to learn m
 
 Shell scripting is an essential skill for DevOps engineers. It enables them to automate repetitive tasks, streamline the development and deployment of applications, and improve the reliability and scalability of DevOps systems. If you are a DevOps engineer, I encourage you to learn shell scripting. It is a skill that will pay off in the long run.
 
-Shell Scripting Part -1 :- https://www.youtube.com/watch?v=zsajhz2_50g
-Shell Scripting Part -2 :- https://www.youtube.com/watch?v=CyQtk9f646Q
+- Shell Scripting Part -1 :- https://www.youtube.com/watch?v=zsajhz2_50g
+- Shell Scripting Part -2 :- https://www.youtube.com/watch?v=CyQtk9f646Q

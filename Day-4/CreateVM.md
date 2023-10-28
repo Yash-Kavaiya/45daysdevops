@@ -200,3 +200,5 @@ Absolutely, Terraform is an excellent choice for managing infrastructure in a hy
 - **Managing Secrets and Sensitive Data**: You'll need to implement best practices for handling sensitive information like API keys, credentials, and passwords when using Terraform.
 
 Overall, Terraform's flexibility and multi-cloud support make it a strong choice for automating infrastructure in a hybrid cloud environment. It allows you to manage resources seamlessly across various cloud providers and on-premises setups, providing a consistent and efficient approach to infrastructure management.
+
+Google Cloud Platform Lab :- https://www.cloudskillsboost.google/journeys/36

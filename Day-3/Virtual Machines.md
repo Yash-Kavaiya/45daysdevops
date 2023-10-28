@@ -1,3 +1,5 @@
+## Basics of Virtual Machine
+
 1. ### Server:
    - A server is a computer program or a device that provides functionality or services to other programs or devices, known as clients, over a network. 
    - In a broader sense, a server can also refer to the physical machine that hosts these services. This machine is typically optimized for tasks like storing, processing, and transmitting data.

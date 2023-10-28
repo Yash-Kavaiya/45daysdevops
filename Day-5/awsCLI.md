@@ -32,4 +32,3 @@ The topic at hand is creating and managing resources on Amazon Web Services (AWS
    - Used by developers and software engineers to build applications and solutions.
    - Requires knowledge of AWS service APIs and libraries like Boto3 (for Python).
    
-![](awsCLI.m\7c46c86f-aa87-175f-bffa-f512467d090d.svg)

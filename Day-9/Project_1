@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Read input file name from user
+read -p "Enter input file name: " input_file
+
+# Check if input file exists
+if [ ! -f "$input_file" ]; then
+    echo "Input file does not exist"
+    exit 1
+fi
+
+# Convert input file to CSV format
+output_file="${input_file%.*}.csv"
+jq -r '(.[0] | keys_unsorted) as $keys | $keys, map([.[ $keys[] ]])[]' "$input_file" > "$output_file"
+
+# Read email address to send file to
+read -p "Enter email address to send file to: " email_address
+
+# Send email with CSV file as attachment
+echo "Sending email with CSV file as attachment..."
+echo "See attached file" | mutt -s "CSV file" -a "$output_file" -- "$email_address"
