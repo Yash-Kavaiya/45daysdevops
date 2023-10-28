@@ -1,3 +1,4 @@
+ 
 **What is DevOps?**
 
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from Agile methodology.
@@ -8,10 +9,10 @@ DevOps is commonly associated with automation, but it also emphasizes people and
 
 DevOps is a popular approach to software development because it offers a number of benefits, including:
 
-* **Faster time to market:** DevOps teams can deliver software to customers more quickly because they automate many of the tasks involved in the software development lifecycle.
-* **Improved quality:** DevOps teams focus on continuous integration and testing, which helps to identify and fix defects early in the development process.
-* **Reduced costs:** DevOps teams can reduce costs by automating tasks, improving efficiency, and reducing the number of defects.
-* **Increased customer satisfaction:** DevOps teams deliver software more frequently and with higher quality, which leads to increased customer satisfaction.
+**Faster time to market:** DevOps teams can deliver software to customers more quickly because they automate many of the tasks involved in the software development lifecycle.
+**Improved quality:** DevOps teams focus on continuous integration and testing, which helps to identify and fix defects early in the development process.
+**Reduced costs:** DevOps teams can reduce costs by automating tasks, improving efficiency, and reducing the number of defects.
+**Increased customer satisfaction:** DevOps teams deliver software more frequently and with higher quality, which leads to increased customer satisfaction.
 
 **How to answer these questions in an Interview**
 
